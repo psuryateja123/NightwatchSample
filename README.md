@@ -22,4 +22,4 @@ Setup:
 <br />
 After the above configuration, we have node_modules and test folder in the project, if you are creating a project away from the sourcecode. <br />
 <br />
-Now the test folder contains a main folder that you need to take care of is e2e.
+Now the test folder contains a main folder that you need to take care of is e2e. This is the main folder that the runner is designed to look to the tests. So we can give tests like smoke tests and regression tests in it as an individual javascript files and select them using tags
