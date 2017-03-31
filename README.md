@@ -20,6 +20,6 @@ Setup:
 * Make sure you have package.json file in your project.
 * There are few basic settings, that include test settings, selenium settings
 <br />
-After the above configuration, we have node_modules and test folder in the project, if you are creating a project away from the sourcecode. 
+After the above configuration, we have node_modules and test folder in the project, if you are creating a project away from the sourcecode. <br />
 <br />
 Now the test folder contains a main folder that you need to take care of is e2e.
