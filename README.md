@@ -9,6 +9,7 @@ Configuration:
 <br />
 * I have used Web storm and I have create a download the following from the terminal.
 * npm package - use npm install / if you want to update use npm update
+* For nightwatch - use npm install nightwatch
 * selenium standalone server - use npm install selenium
 * I have used chrome drive. So you can use npm install chromedriver
 
