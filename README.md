@@ -35,4 +35,6 @@ we can add more like this in the package.json
 <br />
 * For instance if you want run a test1 that exists in the e2e folder. Then you can mention npn run e2e -tag name.
 <br />
-The above mentioned commands are used in terminal in the IDE or terminal that is pointing to the project.
+<br />The above mentioned commands are used in terminal in the IDE or terminal that is pointing to the project.
+
+
