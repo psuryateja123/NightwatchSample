@@ -8,15 +8,11 @@ The main reason for using this we can able to confirgure the test to run on mult
 Configuration:
 <br />
 * I have used Web storm and I have create a download the following from the terminal.
-<br />
 * npm package - use npm install / if you want to update use npm update
-<br />
 * selenium standalone server - use npm install selenium
-<br />
 * I have used chrome drive. So you can use npm install chromedriver
 
 Setup:
 <br />
 * Create a javascript file and name it as nightwatch.conf.js in your project structure. This file is the nightwatch configuration file that consists of desired capabilities, env and other global declarations. If you are using waitForVisibleDisplayed then you can declare the global wait in here.
-<br />
 * Make sure you have package.json file in your project.
