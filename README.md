@@ -19,3 +19,7 @@ Setup:
 * Create a javascript file and name it as nightwatch.conf.js in your project structure. This file is the nightwatch configuration file that consists of desired capabilities, env and other global declarations. If you are using waitForVisibleDisplayed then you can declare the global wait in here.
 * Make sure you have package.json file in your project.
 * There are few basic settings, that include test settings, selenium settings
+<br />
+After the above configuration, we have node_modules and test folder in the project, if you are creating a project away from the sourcecode. 
+<br />
+Now the test folder contains a main folder that you need to take care of is e2e.
