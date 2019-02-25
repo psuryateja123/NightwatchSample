@@ -11,7 +11,7 @@ Configuration:
 * I have used Web storm, considered you have cloned the project.
 * npm package - use npm install / if you want to update use npm update
 <br />
-* If you have issues with some of the dependencies then 
+#### If you have issues with some of the dependencies then 
 * For nightwatch - use npm install nightwatch
 * selenium standalone server - use npm install selenium
 * I have used chrome drive. So you can use npm install chromedriver
